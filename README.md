@@ -2,7 +2,7 @@
 
 ![imageFinal](https://user-images.githubusercontent.com/50602816/69120591-bc510100-0a78-11ea-9fd5-bb593aa9bf2a.gif)
 
-Desafio: criar uma interface parecida com a da imagem acima, nos cards abaixo listar as informações <strong>descricaoAbreviada, valorBRL e cartaoMascarado.</strong> Utilizar uma API para se conectar e receber essas informações. 
+Desafio: criar uma interface conforme a imagem acima, nos cards abaixo listar as informações <strong>descricaoAbreviada, valorBRL e cartaoMascarado.</strong> Utilizar uma API para se conectar e receber essas informações. 
 
 O desafio foi completado utilizando uma API fake, mas o teste pode ser realizado perfeitamente utilizando a URL da Conta Facil que foi passada no Workshop. Para realizar o teste tanto com a API da Conta Facil é necessario seguir os seguintes passos: 
 
