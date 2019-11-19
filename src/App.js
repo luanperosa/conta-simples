@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import ContaFacil from './db.json';
-import jsonTeste from './db-fakeAPI';
+// import ContaFacil from './db.json';
+// import jsonTeste from './db-fakeAPI';
 import axios from 'axios';
 
 import VisibilityOffIcon from '@material-ui/icons/VisibilityOff';
