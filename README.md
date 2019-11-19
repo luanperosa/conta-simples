@@ -16,4 +16,4 @@ O desafio foi completado utilizando uma API fake, mas o teste pode ser realizado
 
 <h2>Testando com a fake API</h2>
 
-No terminal acesse a pasta src e execute o comanto `json-server --watch db-fakeAPI.json --port 8000`, agora é só executar o comando `npm start` na pasta raiz do projeto!
+No terminal acesse a pasta src e execute o comanto `json-server --watch db-fakeAPI.json --port 8000`, nas variaveis de ambiente deve adicionar `REACT_APP_API_URI = http://localhost:8000/content`. Agora é só executar o comando `npm start` na pasta raiz do projeto!
