@@ -1,6 +1,6 @@
 ## Conta Simples
 
-![contaSimples](https://user-images.githubusercontent.com/50602816/69120496-7eec7380-0a78-11ea-8a90-642e0664c747.gif)
+![imageFinal](https://user-images.githubusercontent.com/50602816/69120591-bc510100-0a78-11ea-9fd5-bb593aa9bf2a.gif)
 
 Desafio: criar uma interface parecida com a da imagem acima, nos cards abaixo listar as informações <strong>descricaoAbreviada, valorBRL e cartaoMascarado.</strong> Utilizar uma API para se conectar e receber essas informações. 
 
