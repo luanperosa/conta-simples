@@ -1,6 +1,6 @@
 ## Conta Facil
 
-![WhatsApp Image 2019-11-13 at 21 56 46](https://user-images.githubusercontent.com/50602816/69119433-58790900-0a75-11ea-8744-7850766845f1.jpeg)
+![conta-facil](https://user-images.githubusercontent.com/50602816/69119573-d4735100-0a75-11ea-83d4-7158b45b64b4.gif)
 
 Desafio: criar uma interface parecida com a da imagem acima, e nos cards abaixo listar as informações descricaoAbreviada, valorBRL e cartaoMascarado. Utilizar uma API para se conectar e receber essas informaçes. 
 
