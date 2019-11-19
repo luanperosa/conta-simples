@@ -1,22 +1,100 @@
-.App {
-  text-align: center;
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0; 
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
+html, body, #root {
+  min-height: 100%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+body {
+  font-family: Roboto, Arial, Arial, Helvetica, sans-serif;
+}
+
+.app {
+  margin: 50px auto 0;
+  max-width: 352px;
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  border: 1px solid black;
 }
 
-.App-link {
-  color: #09d3ac;
+ul {
+  list-style: none;
+}
+
+.container {
+  width: 350px;
+  height: 400px;
+  padding: 10px;
+  background-color: #F3F3F3;
+}
+
+.container h2 {
+  margin-top: 20px;
+}
+
+.saldo h2 {
+  margin-bottom: 5px;
+}
+
+.saldo p {
+  margin-bottom: 5px;
+}
+
+.saldo button {
+  border: 0;
+  border-radius: 4px;
+  background-color: #67BE1C;
+  width: 50%;
+  height: 42px;
+  padding: 0 20px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.saldo button:hover {
+  background: rgb(72, 128, 23);
+}
+
+.meus-cartoes {
+  margin-top: 30px;
+  font-size: 12px;
+  margin-bottom: 40px;
+}
+
+.list-card {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card {
+  background-color: #FFFF;
+  display: flex;
+  flex-direction: column;
+  width: 110px;
+  height: 120px;
+  padding-left: 10px;
+}
+
+.dist {
+  margin-top: 20px;
+}
+
+h3 {
+  font-size: 12px;
+}
+
+.ultimas {
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.ultimas ul {
+  margin-top: 15px;
 }
