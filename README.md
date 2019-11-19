@@ -1,4 +1,4 @@
-## Conta Facil
+## Conta Simples
 
 ![conta-facil](https://user-images.githubusercontent.com/50602816/69119573-d4735100-0a75-11ea-83d4-7158b45b64b4.gif)
 
